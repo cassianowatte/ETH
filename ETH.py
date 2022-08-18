@@ -38,3 +38,5 @@ botao.pack()
 texto_cotacao = Label(janela, text='', font='Arial')
 texto_cotacao.pack()
 janela = mainloop()
+
+#fim do programa
